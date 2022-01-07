@@ -14,10 +14,10 @@ section .nav{
     /* border: 1px solid black; */
   background-repeat: no-repeat;
     overflow: hidden;
-    background-position: right;
+    /* background-position: center; */
     height: 250px;
     margin-bottom: 2rem;
-    background-size: contain;
+    background-size: cover;
 
 }
 
@@ -132,7 +132,7 @@ section .nav{
 .nav h2{
     /* padding-left: 20px; */
     font-size: 2rem;
-    padding-top: 7rem;
+    /* padding-top: 7rem; */
 }
 
 }
@@ -250,6 +250,9 @@ section .nav{
 
 
     }
+    .home3{
+        padding-top: 1.2rem;
+    }
 
 
 
@@ -261,6 +264,8 @@ section .nav{
     section .nav{
         margin-bottom: 0rem !important;
         /* height: auto !important; */
+
+        height: 140px !important;
     }
 
 

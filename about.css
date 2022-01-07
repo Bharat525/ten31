@@ -194,7 +194,9 @@ padding-left: 10px;
 
     .mission-parent .item {
         margin-bottom: 10px;
-    
+        width: auto !important;
+
+
     }
 
     .mission-parent{
@@ -220,11 +222,11 @@ padding-left: 10px;
         width: auto !important;
         margin-top: 14px;
         font-size: 18px;
-        line-height: 2;
+        line-height: 1.8;
     } 
 
     .bg-img-about{
-        width: 300px;
+        width: 320px;
         height: 250px;
         margin: auto;
     }
