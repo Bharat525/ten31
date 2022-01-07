@@ -85,8 +85,7 @@ article img{
 
 }
 
-
-/* .mission-parent h2{
+ .mission-parent h2{
     color: white;
     font-size: 4rem;
     
@@ -94,26 +93,26 @@ article img{
     font-weight: 600;
 
     padding: 10px;
-} */
+}
 
 
-/* .mission-parent p{
+ .mission-parent p{
     padding-left: 10px;
     color: white;
     margin-bottom: 10rem;
     font-size: 1.2rem;
 
-} */
+}
 
 
 
 
-/* .item img{
+.item img{
     object-fit: cover;
     height: 100%;
     width: 100%;
     
-} */
+}
 
 
 
