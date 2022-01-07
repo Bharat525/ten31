@@ -17,6 +17,7 @@ section .nav{
     background-position: right;
     height: 250px;
     margin-bottom: 2rem;
+    background-size: contain;
 
 }
 
@@ -35,7 +36,6 @@ section .nav{
      align-items: center;
   /* padding-left: 65px; */
     font-size: 4rem;
-    font-family: 'Cedarville Cursive', cursive;
     /* padding-top: 2rem; */
 }
 
