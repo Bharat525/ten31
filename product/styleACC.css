@@ -37,6 +37,7 @@ section .nav{
   /* padding-left: 65px; */
     font-size: 4rem;
     /* padding-top: 2rem; */
+    color: white;
 }
 
 .left article{
