@@ -141,10 +141,16 @@ footer{
 
 .icons-img .img-div:hover{
         box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.25);
-        outline: 1px solid red;
+        outline: 1px solid #540000;
         
     
 
+}
+
+.iconsSpec h2{
+    text-align: left;
+    padding-left: 3rem;
+    color: #540000;
 }
 
 .img-div{
@@ -155,6 +161,10 @@ footer{
 
 .icons-img{
     display: flex;
+}
+
+.img-div span{
+    font-weight: bold;
 }
 
 .icons-img span{
@@ -262,7 +272,12 @@ footer{
 }
 
 .product-div .item{
-    width: auto;
+        width: 95%;
+        margin: auto;
+}
+
+.product-banner{
+    padding-top: 0px !important;
 }
 
 }
