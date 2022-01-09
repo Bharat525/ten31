@@ -16,6 +16,38 @@ function myFunction() {
 
 
 
+console.log(elpara)
+
+
+
+
+
+// function myFunction() {
+//     var x = document.getElementById("myDIV");
+//     if (x.style.display === "none") {
+//         x.style.display = "block";
+//     } else {
+//         x.style.display = "none";
+//     }
+// }
+
+
+function parafun() {
+
+    var elpara = document.getElementById('para')
+    if (elpara.style.display === "none") {
+        elpara.style.display = "block";
+
+    } else {
+        elpara.style.display = "none";
+    }
+
+
+
+
+}
+
+
 
 
 
