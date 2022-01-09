@@ -194,6 +194,10 @@ footer{
     margin: auto;
 }
 
+.icons-img{
+    flex-direction: column;
+}
+
 
 
 
