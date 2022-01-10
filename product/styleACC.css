@@ -487,6 +487,20 @@ section .better{
 @media (max-width: 768px) {
 
 
+    
+    .nav h2{
+      font-size: 34px !important;
+      padding-top: 2rem !important;
+      text-align: center !important;
+      margin-left: 0rem !important;
+}
+
+
+.vdio-container h2{
+    margin-left: 0px !important;
+}
+
+
     .question{
         width: auto !important;
     }

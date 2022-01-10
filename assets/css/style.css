@@ -1069,6 +1069,8 @@ section {
     background: rgba(198, 16, 0, 0);
 }
 
+
+
 .about .play-btn:hover::after {
     border-left: 15px solid #428bca;
     transform: scale(20);
@@ -1843,6 +1845,18 @@ tr:nth-child(odd) {
 }
 
 @media (max-width: 768px) {
+
+
+    .parent span{
+        font-size: 18px !important;
+    }
+    
+.nav h2{
+      font-size: 24px !important;
+      /* padding-top: 2rem !important; */
+      text-align: center !important;
+      margin-left: 0px !important;
+}
 
 
     h2,h3{

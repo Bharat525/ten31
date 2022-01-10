@@ -190,6 +190,8 @@ footer{
 
 @media (max-width: 768px) {
 
+
+
 .item{
     flex-direction: column;
 }
