@@ -2716,6 +2716,11 @@ animation-iteration-count: infinite;
 }
 
 
+iframe{
+    outline: 10px solid #FFF1DE;
+}
+
+
 
 @media (max-width: 768px) {
     footer .foot-container{
