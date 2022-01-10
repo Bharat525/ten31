@@ -76,6 +76,11 @@ article img{
 
 }
 
+.item:first-child{
+    background-position: center;
+    background-size: cover;
+}
+
 
 .mission-parent .item:nth-child(2){
     border: 20px solid orange;
