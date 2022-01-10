@@ -113,7 +113,7 @@ footer{
 .iconsSpec{
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 
 
@@ -136,7 +136,7 @@ footer{
 
 
 .item:first-child{
-    height: 400px;
+    height: 500px;
 }
 
 .icons-img .img-div:hover{

@@ -87,6 +87,10 @@ header .container{
 
 /* Track */
 
+.continueBtn{
+    background-color: transparent;
+}
+
  
 /* Handle */
 ::-webkit-scrollbar-thumb {
