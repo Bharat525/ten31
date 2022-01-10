@@ -671,7 +671,7 @@ margin-top: 6rem;
     background-position: center;
     height: 100vh;
     background-size: cover;
-
+box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
     
   
 
@@ -2716,8 +2716,9 @@ animation-iteration-count: infinite;
 }
 
 
-iframe{
-    outline: 10px solid #FFF1DE;
+footer iframe{
+    border-radius: 4px;
+    outline: 10px solid #525252;
 }
 
 
