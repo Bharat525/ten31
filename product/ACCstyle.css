@@ -199,7 +199,7 @@ footer{
 }
 
 .img-putty{
-    height: 200px;
+    height: 400px;
     
     margin: auto;
 }
@@ -209,6 +209,12 @@ footer{
 }
 
 
+
+.iconsSpec h2{
+ text-align: center;
+ padding: 0px !important;
+ font-size: 2rem !important;
+}
 
 
 
