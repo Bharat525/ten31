@@ -135,6 +135,13 @@ a {
     text-decoration: none;
 }
 
+
+
+.continueBtn a:hover{
+    color: white !important;
+
+}
+
 /* a:hover {
     color: #6aa3d5;
     text-decoration: none;
