@@ -1880,7 +1880,8 @@ tr:nth-child(odd) {
     }
 
     video {
-            width: 100% !important;
+        margin: auto;
+            width: 90% !important;
             padding: 10px;
     }
 
