@@ -125,7 +125,7 @@ article img{
     /* padding-top: 4rem; */
     padding-bottom: 4rem;
     /* height: 80vh; */
-        background-color: #6DB3F2;
+        /* background-color: #6DB3F2; */
 }
 
 .parent-about h3{
@@ -151,11 +151,14 @@ article img{
     align-items: center;
     margin-top: 4rem;
     background-size: 400px;
+    background-color: teal;
 
 
 }
 
 .item-about p{
+    padding-bottom: 2rem;
+    padding-top: 2rem;
     font-size: 22px;
     line-height: 2.4rem;
     letter-spacing: 1px;
@@ -199,6 +202,13 @@ padding-left: 10px;
 
 
     }
+
+    
+
+.parent-about{
+    width: 90%;
+    margin: auto;
+}
 
     .mission-parent .item {
    
