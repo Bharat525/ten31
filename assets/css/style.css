@@ -88,7 +88,12 @@ header .container{
 /* Track */
 
 .continueBtn{
-    background-color: transparent;
+ width: 200px;
+ background-color: #FF6600;
+ border: none;
+ border-radius: 50px;
+ margin-bottom: 2rem;
+ color: white;
 }
 
 
@@ -2157,7 +2162,7 @@ tr:nth-child(odd) {
 
 
 .about .row.justify-content-center{
-    /* background-color: #272c30; */
+    background-color: #272c30;
     /* padding: 20px; */
 
 
