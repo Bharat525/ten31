@@ -198,8 +198,10 @@ padding-left: 10px;
     }
 
     .mission-parent .item {
+   
+            width: 100%;
+        margin: auto;
         margin-bottom: 10px;
-        width: auto !important;
 
 
     }

@@ -2611,6 +2611,11 @@ padding-right: 30rem;
 
 
 @media (max-width: 768px) {
+
+#logo img{
+    height: 80px !important;
+}
+
  .container-fluid h3{
      margin-left: auto !important;
  }
