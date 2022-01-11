@@ -120,6 +120,30 @@
 }
 
 
+    @media(max-width: 320px){ 
+        .container-fluid h2{
+            font-size: 1.2rem !important;
+
+
+        }
+
+
+        .about p{
+            font-size: 0.9rem !important;
+        }
+
+        .continueBtn a{
+            font-size:0.9rem !important;
+        }
+
+        .testimonial-item img{
+            width:  100% !important;
+        }
+
+
+    }
+
+
 
 
 

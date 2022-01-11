@@ -491,6 +491,55 @@ video{
     border-radius: 20px;
 }
 
+
+    @media(max-width: 320px){ 
+
+.nav h2{
+    font-size: 1rem !important;
+}
+
+
+    }
+
+
+
+@media(max-width: 320px){ 
+
+.item .img-putty{
+    height: 200px !important;
+}
+
+
+}
+
+
+
+
+@media (max-width: 1366px) {
+
+
+
+
+}
+
+
+@media only screen and (max-width : 1180px){
+    
+.hamburger{
+    display: block;
+}
+
+
+.img-putty{
+    background-color: yellow;
+}
+
+
+
+
+}
+
+
 @media (max-width: 768px) {
 
 
