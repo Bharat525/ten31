@@ -492,7 +492,15 @@ h6 {
         display: block;
     }
 
+    .question{
+        width: 100% !important;
+    }
+
+
 }
+
+
+
 
 
 
