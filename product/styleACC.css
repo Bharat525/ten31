@@ -30,7 +30,6 @@ section .nav{
 }
 
 .nav h2{
-    padding-top: 2rem;
     width: 100%;
    text-align: center;
      align-items: center;
@@ -133,6 +132,7 @@ section .nav{
 .nav h2{
     /* padding-left: 20px; */
     font-size: 2rem;
+    padding: 0px !important;
     /* padding-top: 7rem; */
 }
 
@@ -255,6 +255,11 @@ section .nav{
         padding-top: 1.2rem;
     }
 
+
+        .nav h2 {
+            margin-top: 1rem !important;
+
+        }
 
 
 
@@ -482,15 +487,17 @@ section .better{
     border-radius: 50%;
 
 }
-
+video{
+    border-radius: 20px;
+}
 
 @media (max-width: 768px) {
 
 
     
     .nav h2{
-      font-size: 34px !important;
-      padding-top: 2rem !important;
+      font-size: 30px !important;
+      /* padding-top: 2rem !important; */
       text-align: center !important;
       margin-left: 0rem !important;
 }

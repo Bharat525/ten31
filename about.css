@@ -178,6 +178,9 @@ padding-left: 10px;
         display: block !important;
         width: 90%;
     }
+    .about-us h2{
+        margin: 0px !important;
+    }
 
     .item-about{
         height: auto !important;
