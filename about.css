@@ -198,12 +198,13 @@ video{
 @media screen and (max-width: 768px) {
 
     .imgBrick{
-    left: 3rem;
-    top: 15rem;
-    height: 200px;
-    width: 250px;
+    left: 7rem;
+    top: 18rem;
+    height: 150px;
+    width: 180px;
+}
 
-}   
+
 
 .mission-parent {
     padding: 1rem;

@@ -132,7 +132,7 @@ section .nav{
 .nav h2{
     /* padding-left: 20px; */
     font-size: 2rem;
-    padding: 0px !important;
+    /* padding: 0px !important; */
     /* padding-top: 7rem; */
 }
 
