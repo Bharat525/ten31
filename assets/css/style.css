@@ -2615,19 +2615,26 @@ padding-right: 30rem;
      margin-left: auto !important;
  }
 
- .about p{
-    margin-top: 2rem !important;
-
-
-
-
-
-
+ .Certificates h2{
+     margin-left: 0px !important;
+     padding-top: 10px;
  }
 
 
+ .about p{
+    margin-top: 2rem !important;
+
+ }
+
+     #carouselExampleControls{
+         margin-right: 1rem;
+         margin-left: 1rem;
+         margin-bottom: 1rem;
+     }
+
+
  .parent p{
-    font-size: 18px;
+    font-size: 16px;
 
  }
 
