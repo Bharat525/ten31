@@ -240,6 +240,10 @@ video{
 
     }
 
+article img{
+    display: none;
+}
+
     
 
 .parent-about{
