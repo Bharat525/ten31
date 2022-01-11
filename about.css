@@ -160,7 +160,6 @@ article img{
     padding-bottom: 2rem;
     padding-top: 2rem;
     font-size: 22px;
-    line-height: 2.4rem;
     letter-spacing: 1px;
     width: 60%;
 text-align: justify;
@@ -173,6 +172,10 @@ padding-left: 10px;
     padding-top: 2rem;
     padding-bottom: 2rem;
     
+}
+
+video{
+    border-radius: 20px;
 }
 
 
