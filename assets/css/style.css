@@ -486,6 +486,14 @@ h6 {
 
 }
 
+@media screen and (max-width: 980px){
+
+    .navbar img{
+        display: block;
+    }
+
+}
+
 
 
 @media (max-width: 1366px) {

@@ -195,6 +195,47 @@ video{
 }
 
 
+@media screen and (max-width: 980px){
+
+    video{
+        width: 100% !important;
+    }
+    .imgBrick{
+            position: absolute;
+    height: 300px;
+    width: 300px;
+    top: 16rem;
+    left: 6rem;
+    }
+
+    .bg-img-about{
+        width: auto !important;
+    }
+
+    .imgBrick{
+            left: 20rem !important;
+    top: 15rem !important;
+    height: 149px !important;
+    width: 180px !important;
+    }
+
+
+    .profile article{
+        padding: 40px;
+    }
+
+    .bg-img-about{
+        height: 600px;
+    }
+
+    .profile{
+        width: 100% !important;
+    }
+
+
+
+}
+
 
 
     @media(max-width: 320px){ 
