@@ -207,6 +207,12 @@ video{
 
 @media (max-width: 768px) {
 
+    
+.left p{
+    font-size: 1rem !important;
+}
+
+
 video{
     border-radius: 20px;
 }
