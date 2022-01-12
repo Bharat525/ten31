@@ -228,9 +228,9 @@ video{
 }
 
 .img-putty{
-    height: 400px;
+    height: 400px !important;
     
-    margin: auto;
+    margin: auto !important;
 }
 
 .icons-img{
