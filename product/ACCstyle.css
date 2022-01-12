@@ -231,6 +231,7 @@ video{
     height: 400px !important;
     
     margin: auto !important;
+    width: auto !important;
 }
 
 .icons-img{
